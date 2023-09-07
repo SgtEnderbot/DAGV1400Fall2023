@@ -33,7 +33,7 @@ Console.WriteLine("\nStory time!");
 
 Console.WriteLine("\nOur hero named " + heroName + " once met a strange dwarf named " + dwarfName);
 Console.WriteLine(heroName + " was young, and was only " + heroAge + " years old ");
-Console.WriteLine(dwarfName + ", however, was much older at " + dwarfAge + " years old");
+Console.WriteLine(dwarfName + ", however, was " + dwarfAge + " years old");
 Console.WriteLine(heroName + " asked if " + dwarfName + " thought his name was the best ");
 Console.WriteLine(dwarfName + " said that this is " + bobIsBetter + " and his name is the best");
 Console.WriteLine("But even if the two don't always get along, at least they're still friends with both " + userName + " and " + bestieName);
