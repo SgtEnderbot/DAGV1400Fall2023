@@ -22,7 +22,7 @@ public class Program
 		int testScore = 77;
 		string subject = "Science";
 		
-			if (testScore > 100)
+		if (testScore > 100)
 			Console.WriteLine("That's impossible!");
 		else if (testScore >= 90)
 			Console.WriteLine("Your grade: A");
